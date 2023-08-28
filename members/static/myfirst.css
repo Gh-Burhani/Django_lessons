@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+    font-family: verdana;
+  }
+
+  body {
+    background-color: bisque
+}
+a {
+    margin-left: 10px;
+    color: rgb(98, 0, 255)
+    
+}
+
+li {
+    font-size: large;
+    font-weight: normal;
+    font-style: normal;
+}
